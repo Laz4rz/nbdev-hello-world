@@ -16,20 +16,20 @@ format:
 
 website:
   title: "nbdev-hello-world"
-  site-url: "https://Laz4rz.github.io/nbdev-hello-world"
+  site-url: "https://laz4rz.github.io/nbdev-hello-world"
   description: "Hello nbdev"
   twitter-card: true
   open-graph: true
   reader-mode: true
   repo-branch: master
-  repo-url: "https://github.com/Laz4rz/nbdev-hello-world"
+  repo-url: "https://github.com/laz4rz/nbdev-hello-world"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
     right:
       - icon: github
-        href: "https://github.com/Laz4rz/nbdev-hello-world"
+        href: "https://github.com/laz4rz/nbdev-hello-world"
   sidebar:
     style: "floating"
 
